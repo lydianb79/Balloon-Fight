@@ -1,0 +1,3 @@
+# extra entry points found by playtesting (targets of JMP ($0025))
+C3C9
+C46B
